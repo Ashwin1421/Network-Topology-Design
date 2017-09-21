@@ -3,7 +3,7 @@ import GraphGen
 
 class Main:
     def __init__(self, k, N):
-        self.ID = '2021334219'
+        self.ID = ''
         self.graph = GraphGen.GraphGen(self.ID, k, N)
 
     def run(self):
